@@ -1,0 +1,2 @@
+# premium-kerf-bend-001-kerf-bending-steam-curve-cra
+Stop losing track of kerf patterns and steam times — this template turns chaos into a repeatable craft system for your studio.  The Kerf Bending &amp; Steam Curve Craft Studio template solves the pain of managing multiple bending projects by centralizing your kerf patterns, steam duration logs, material inventory, and project timelines into one organiz
